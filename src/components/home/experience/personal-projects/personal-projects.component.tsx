@@ -40,20 +40,20 @@ const projectsList = [
     name: "Portfolio",
     date: "28 Nov, 2024",
     description: "A brief description of the project",
-    github: "",
-    website: "",
-    image: "https://i.ibb.co/3skRzzH/workout-app.png",
+    technologies: [
+      {
+        name: "TypeScript",
+        icon: "",
+      },
+      {
+        name: "React",
+        icon: "",
+      },
+    ],
+    github: "https://github.com/GaryBenAttar/portfolio",
+    website: "https://garybenattar.netlify.app/",
+    image: "https://i.ibb.co/hstNm26/portfolio-photo.png",
     gridArea: "1/4/2/6",
-  },
-  {
-    id: 3,
-    name: "Ecommerce Platform",
-    date: "15 Oct, 2024",
-    description: "A brief description of the project",
-    github: "",
-    website: "",
-    image: "https://i.ibb.co/3skRzzH/workout-app.png",
-    gridArea: "2/4/3/6",
   },
 ];
 
