@@ -17,15 +17,14 @@ const AboutMe = () => {
       </AboutMeDescription>
       <AboutMeCard />
       <AboutMeDescription>
-        I am a seasoned Full Stack Developer with a proven track record of over
-        4+ years, focusing on delivering high-quality solutions. My expertise
-        lies in a comprehensive range of technologies including Python, Django,
-        Flask, FastAPI, JavaScript, TypeScript, React, Next.js, Node.js,
-        Express, GraphQL, AWS, GCP and many more. With a deep understanding of
-        these tools and frameworks, I excel in crafting dynamic and scalable
+        Full Stack Developer focusing on delivering high-quality solutions. My
+        expertise lies in a comprehensive range of technologies including
+        FastAPI, JavaScript, TypeScript, React, Next.js, Node.js, Express,
+        GraphQL, AWS, GCP and many more. With a deep understanding of these
+        tools and frameworks, I excel in crafting dynamic and scalable
         full-stack applications that meet the evolving needs of modern
         businesses. Let me bring my wealth of experience and technical prowess
-        to your next project.
+        to your next projects
       </AboutMeDescription>
     </AboutMeContainer>
   );
