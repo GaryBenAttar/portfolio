@@ -24,7 +24,7 @@ const Introduction = () => {
       </IntroductionSummary>
       <IntroductionImage
         alt="Gary"
-        src="https://i.ibb.co/60d5YGS/logo-panda.png"
+        src="https://i.ibb.co/RhdvDDx/gary-photo.png"
       />
     </IntroductionContainer>
   );

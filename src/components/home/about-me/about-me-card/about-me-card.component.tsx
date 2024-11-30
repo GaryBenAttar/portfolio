@@ -14,7 +14,7 @@ const AboutMeCard = () => {
     <AboutMeCardContainer>
       <AboutMeImage
         alt="about-me"
-        src="https://i.ibb.co/Dp0kG1D/gary-photo.png"
+        src="https://i.ibb.co/ZTLrtWP/logo-panda.png"
       />
       <AboutMeInfo>
         <AboutMeDetails>
