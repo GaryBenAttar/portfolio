@@ -24,4 +24,7 @@ export const IntroductionSummaryParagraph = styled.p`
   font-size: 1.3rem;
 `;
 
-export const IntroductionImage = styled.img``;
+export const IntroductionImage = styled.img`
+  width: 30%;
+  border-radius: 50%;
+`;

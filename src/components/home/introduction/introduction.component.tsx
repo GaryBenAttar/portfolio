@@ -22,7 +22,10 @@ const Introduction = () => {
           exceed expectations.
         </IntroductionSummaryParagraph>
       </IntroductionSummary>
-      <IntroductionImage alt="Gary" />
+      <IntroductionImage
+        alt="Gary"
+        src="https://i.ibb.co/60d5YGS/logo-panda.png"
+      />
     </IntroductionContainer>
   );
 };

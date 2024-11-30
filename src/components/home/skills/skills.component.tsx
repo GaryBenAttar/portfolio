@@ -17,7 +17,7 @@ const skillsList = [
     title: "Backend",
     categories: [
       { name: "Technologies", skills: ["Node JS", "Express JS"] },
-      { name: "Authentication", skills: ["Firebase"] },
+      { name: "Authentication", skills: ["OAuth", "Firebase"] },
     ],
   },
   {
@@ -29,7 +29,10 @@ const skillsList = [
   },
   {
     title: "DevOps",
-    categories: [{ name: "Infrastructure", skills: ["Github"] }],
+    categories: [
+      { name: "Infrastructure", skills: ["Github"] },
+      { name: "Virtualization", skills: ["Oracle Vitual Box"] },
+    ],
   },
 ];
 

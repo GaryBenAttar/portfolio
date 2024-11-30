@@ -6,6 +6,8 @@ export const NavigationContainer = styled.div`
   align-items: center;
 
   width: inherit;
+
+  padding-top: 20px;
 `;
 
 export const NavigationLogo = styled.div`

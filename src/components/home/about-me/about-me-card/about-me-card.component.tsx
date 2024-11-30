@@ -9,12 +9,13 @@ import {
   AboutMeSocialLinks,
 } from "./about-me-card.styles";
 
-import AboutMePhoto from "../../../../assets/gary-photo.png";
-
 const AboutMeCard = () => {
   return (
     <AboutMeCardContainer>
-      <AboutMeImage alt="about-me" src={AboutMePhoto} />
+      <AboutMeImage
+        alt="about-me"
+        src="https://i.ibb.co/Dp0kG1D/gary-photo.png"
+      />
       <AboutMeInfo>
         <AboutMeDetails>
           <AboutMeName>Gary Ben Attar</AboutMeName>
